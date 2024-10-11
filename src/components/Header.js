@@ -26,17 +26,8 @@ function Header() {
         <img src="/assets/images/logo.png" alt="Maritime Marvel" />
         <span>Maritime Marvel Cruises</span>
       </div>
-      <nav className={`desktop-nav ${isMobileMenuOpen ? 'mobile-open' : ''}`}>
-        <ul>
-          <li><a href="#home" onClick={toggleMobileMenu}>Home</a></li>
-          <li><a href="AboutUs.js" onClick={toggleMobileMenu}>About</a></li>
-          <li><a href="#gallery" onClick={toggleMobileMenu}>Gallery</a></li>
-          <li><a href="#destination" onClick={toggleMobileMenu}>Destination</a></li>
-        </ul>
-      </nav>
-      <div className="search">
-        <input type="text" placeholder="Search" />
-      </div>
+    
+    
       <button className="mobile-menu-toggle" onClick={toggleMobileMenu}>
         <span></span>
         <span></span>
