@@ -17,7 +17,6 @@ const AboutUs = () => {
               excellence, we offer world-class amenities and breathtaking destinations.
               Join us and discover the magic of the open seas.
             </p>
-            <button className="explore-button">EXPLORE</button>
           </div>
         </div>
       </section>

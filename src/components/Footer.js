@@ -6,19 +6,12 @@ const Footer = () => {
       <div className="footer-content">
         <div className="footer-left">
           <h3>MARITIME MARVEL CRUISES</h3>
-          <p>We provide an experience of a lifetime</p>
+          <p>Experience the Voyage Of a Lifetime</p>
         </div>
         <div className="footer-right">
           <p><strong>Connect with us</strong></p>
-          <p>+00 000 000 00</p>
+          <p>(068914)+65 90556461</p>
           <p>team@maritimemarvelcruises.com</p>
-          <div className="social-icons">
-            <i className="fab fa-facebook-f"></i>
-            <i className="fab fa-youtube"></i>
-            <i className="fab fa-dribbble"></i>
-            <i className="fab fa-behance"></i>
-            <i className="fab fa-whatsapp"></i>
-          </div>
         </div>
       </div>
       <div className="footer-bottom">

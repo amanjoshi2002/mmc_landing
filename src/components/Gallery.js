@@ -48,7 +48,6 @@ function Gallery() {
                     ))}
                 </div>
             </div>
-            <button className="view-more">View More</button>
         </section>
     );
 }

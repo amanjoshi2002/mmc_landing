@@ -3,7 +3,6 @@ import Hero from './components/Hero';
 import Experiences from './components/Experiences';
 import ShipImage from './components/ShipImage';
 import Gallery from './components/Gallery';
-import Testimonials from './components/Testimonials';
 import AboutUs from './components/AboutUs';
 import ContactUs from './components/ContactUs';
 import Footer from './components/Footer';
@@ -40,7 +39,6 @@ function App() {
       <Experiences />
       <ShipImage />
       <Gallery />
-      <Testimonials />
       <AboutUs />
       <ContactUs />
       <Footer />

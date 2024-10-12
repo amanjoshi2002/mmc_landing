@@ -8,9 +8,10 @@ const ContactUs = () => {
       <div className="contact-container">
         <div className="get-in-touch">
           <h2>Get in Touch</h2>
-          <p>Phone: +91 1234567890</p>
-          <p>Email: info@maritimemarvel.com</p>
-          <p>Address: Head Office, 123, Indraprastha, Dadichi, Goa-403371</p>
+          <p>Phone:(068914)+65 90556461</p>
+          <p>Email: team@maritimemarvelcruises.com</p>
+          <p>Address: Singapore Business Federation Center
+          #14-04, 160 Robinson Road,Singapore</p>
           <div className="social-icons">
             <i className="fab fa-facebook-f"></i>
             <i className="fab fa-instagram"></i>
